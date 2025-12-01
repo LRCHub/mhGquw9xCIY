@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Ortus",
+  "base_artist": "相宮零、VISUAL ARTS / Key",
+  "createdAt": "2025-12-01T11:40:47.025067Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ortus",
+      "artist": "Voices From The Fuselage",
+      "has_synced": true,
+      "path": "select/01_Ortus_Voices_From_The_Fuselage.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ORTUS",
+      "artist": "ODDLORE",
+      "has_synced": false,
+      "path": "select/pl_01_ORTUS_ODDLORE.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Ortus",
+      "artist": "ODDLORE",
+      "has_synced": false,
+      "path": "select/pl_02_Ortus_ODDLORE.txt"
+    }
+  ]
+}
